@@ -1,0 +1,32 @@
+h1{
+    color:white;
+}
+body{
+    background-color:midnightblue;
+}
+img{
+    width:190px;
+    height:190px;
+}
+.row{
+    background-color: darkslateblue;
+    font-family: cursive;
+    color:aliceblue;
+}
+#grape{
+    background-color: indigo;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:aliceblue;
+}
+li{
+    color:azure;
+}
+th{
+    color:azure;
+}
+#mango{
+    color:aliceblue;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
