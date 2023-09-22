@@ -30,9 +30,10 @@ th{
 }
 main {
     color:black;
+    text-align: center;
 }
 header{
-    color:red !important;
+    color:red;
     font-size:40px;
     font-family:fantasy;
     text-align:center;
