@@ -30,12 +30,12 @@ th{
     font-size: xx-large;
     font-family: Arial, Helvetica, sans-serif;
 }
+main {
+    color:white;
+}
 header{
-    font-color:red;
+    color:red;
     font-size:40px;
     font-family:fantasy;
     text-align:center;
-}
-main {
-    color:white;
 }
