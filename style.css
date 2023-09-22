@@ -1,6 +1,4 @@
-h1{
-    color:white;
-}
+
 body{
     background-color:midnightblue;
 }
@@ -34,8 +32,11 @@ main {
     color:white;
 }
 header{
-    color:red;
+    color:red !important;
     font-size:40px;
     font-family:fantasy;
     text-align:center;
+}
+.main-heading{
+    color:white
 }
