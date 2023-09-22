@@ -1,6 +1,6 @@
 
 body{
-    background-color:midnightblue;
+    background-color:rgba(226, 202, 245, 0.377);
 }
 img{
     width:190px;
@@ -39,4 +39,5 @@ header{
 }
 .main-heading{
     color:white
+    text-align:center;
 }
